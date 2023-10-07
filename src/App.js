@@ -1,9 +1,10 @@
 import './App.css';
+import { Named } from './components/named/named';
 
 function App() {
   return (
     <div className="App">
-    <h2>OKAY ALL</h2>
+    <Named></Named>
     </div>
   );
 }
