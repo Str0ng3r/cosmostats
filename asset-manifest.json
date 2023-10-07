@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cosmostats/static/css/main.073c9b0a.css",
+    "main.js": "/cosmostats/static/js/main.ccf784f3.js",
+    "static/js/787.d89dd616.chunk.js": "/cosmostats/static/js/787.d89dd616.chunk.js",
+    "index.html": "/cosmostats/index.html",
+    "main.073c9b0a.css.map": "/cosmostats/static/css/main.073c9b0a.css.map",
+    "main.ccf784f3.js.map": "/cosmostats/static/js/main.ccf784f3.js.map",
+    "787.d89dd616.chunk.js.map": "/cosmostats/static/js/787.d89dd616.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ccf784f3.js"
+  ]
+}
