@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/cosmostats/static/css/main.073c9b0a.css",
-    "main.js": "/cosmostats/static/js/main.ccf784f3.js",
+    "main.css": "/cosmostats/static/css/main.41815c58.css",
+    "main.js": "/cosmostats/static/js/main.b8ca792d.js",
     "static/js/787.d89dd616.chunk.js": "/cosmostats/static/js/787.d89dd616.chunk.js",
+    "static/media/space_earth.jpg": "/cosmostats/static/media/space_earth.31fa568c92eefe6b035c.jpg",
+    "static/media/photoapparat.png": "/cosmostats/static/media/photoapparat.5d09a02cfbf4bd8e9373.png",
+    "static/media/another EARTH.png": "/cosmostats/static/media/another EARTH.0989d6a01a13873c2b6c.png",
+    "static/media/logotip.png": "/cosmostats/static/media/logotip.709901d7fe8a9bcd7735.png",
+    "static/media/MARS PHOTO.jpg": "/cosmostats/static/media/MARS PHOTO.7992ddac7b49de1a616a.jpg",
+    "static/media/sputnik.jpg": "/cosmostats/static/media/sputnik.876db1552479f7acc359.jpg",
+    "static/media/cosmo weather.jpg": "/cosmostats/static/media/cosmo weather.61b402f5c4a75c600c84.jpg",
+    "static/media/NASA.png": "/cosmostats/static/media/NASA.3fafa0ed6ec8d7ba057c.png",
     "index.html": "/cosmostats/index.html",
-    "main.073c9b0a.css.map": "/cosmostats/static/css/main.073c9b0a.css.map",
-    "main.ccf784f3.js.map": "/cosmostats/static/js/main.ccf784f3.js.map",
+    "main.41815c58.css.map": "/cosmostats/static/css/main.41815c58.css.map",
+    "main.b8ca792d.js.map": "/cosmostats/static/js/main.b8ca792d.js.map",
     "787.d89dd616.chunk.js.map": "/cosmostats/static/js/787.d89dd616.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ccf784f3.js"
+    "static/css/main.41815c58.css",
+    "static/js/main.b8ca792d.js"
   ]
 }
